@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1e75eca.css",
+    "main.js": "/static/js/main.00766a43.js",
+    "static/media/me.png": "/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/meow2.jpeg": "/static/media/meow2.c72915d03db66bd8df33.jpeg",
+    "static/media/meow.png": "/static/media/meow.cb672fecbb40df0f47fd.png",
+    "static/media/cv.pdf": "/static/media/cv.92159bca557019b5f601.pdf",
+    "static/media/Refunds.png": "/static/media/Refunds.0312a0694ed7e901231a.png",
+    "static/media/bmi1.JPG": "/static/media/bmi1.188a4b3dcd0aba1d23f8.JPG",
+    "static/media/HP.png": "/static/media/HP.e21942cc1d59cae02e2c.png",
+    "static/media/Servicer1.JPG": "/static/media/Servicer1.90d06d5b23f6d4935a77.JPG",
+    "static/media/eydoxos.JPG": "/static/media/eydoxos.cebaaab187bcb4117a35.JPG",
+    "static/media/lk.jpg": "/static/media/lk.b84d91547bdeeafa0949.jpg",
+    "static/media/CH.png": "/static/media/CH.e311d1ca4a6f4950c71e.png",
+    "index.html": "/index.html",
+    "main.b1e75eca.css.map": "/static/css/main.b1e75eca.css.map",
+    "main.00766a43.js.map": "/static/js/main.00766a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e75eca.css",
+    "static/js/main.00766a43.js"
+  ]
+}
